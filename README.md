@@ -12,7 +12,7 @@ Smart Email Assistant is a Python-based AI tool that categorizes emails, summari
 ## 🚀 Installation
 ### 1️⃣ **Clone the Repository**
 ```sh
-https://github.com/YOUR_USERNAME/smart-email-assistant.git
+https://github.com/Script-Hussle/smart-email-assistant.git
 cd smart-email-assistant
 ```
 ### 2️⃣ **Create a Virtual Environment (Optional, Recommended)**
@@ -40,15 +40,6 @@ smart-email-assistant/
 │── requirements.txt         # Dependencies
 │── sample_email.eml         # Sample email file
 │── README.md                # Documentation
-```
-
-## 📜 Requirements
-All dependencies are listed in `requirements.txt`.
-
-```txt
-transformers
-spacy
-pandas
 ```
 
 ## 💡 Future Improvements
